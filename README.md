@@ -6,7 +6,7 @@ Tool giúp bạn phá đảo game nối từ (https://noitu.pro/)
 
 ## Instruction
 
-Bấm F12 và paste đoạn code `noitu.js` vào
+Vào trận, mở Developer Console (F12) và paste đoạn code `noitu.js` vào và đợi điểm số của bạn!
 
     
 ## Screenshots
